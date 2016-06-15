@@ -1,4 +1,5 @@
 [![Stories in Ready](https://badge.waffle.io/RadioRevolt/radiowiki.png?label=ready&title=Ready)](https://waffle.io/RadioRevolt/radiowiki)
+[![Stories in Ready](https://badge.waffle.io/RadioRevolt/radiowiki.png?label=ready&title=Ready)](https://waffle.io/RadioRevolt/radiowiki)
 # radiowiki
 Radio Revolt sin hipster-wiki. Skrevet i node.js med react og ymse andre hipster-verktøy.
 Basert på [React Boilderplate](https://github.com/mxstbr/react-boilerplate/).
